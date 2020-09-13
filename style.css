@@ -148,9 +148,9 @@ p {
 hr {
     width: 50px;
     border: 1px solid #22A23F;
-    margin-bottom: 50px
+    margin-bottom: 0px
 }
-
+.courses p,.communication-content{padding-top: 50px}
 .notice-content {
     padding: 0 0 90px 0
 }
