@@ -69,20 +69,26 @@
     .media-left {
         width: 45%;
         margin-right: 5%;
-        float: left
+        float: left;
     }
 
 
     .media-right {
 
         width: 45%;
-        overflow: hidden
+        overflow: hidden;
     }
 
     .online-exam {
         clear: left;
     }
-
+   .course-extra {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 100px;
+    background-color: #FAFBFE;
+}
+    .course-extra p, .course-extra img{text-align: left;}
 
 }
 
